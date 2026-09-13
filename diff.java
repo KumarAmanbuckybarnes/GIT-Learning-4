@@ -18,7 +18,7 @@ public class Difference {
             difference = difference - number;
         }
 
-        System.out.println("Difference = " + difference);
+        System.out.println("Difference of desired number is  = " + difference);
 
         sc.close();
     }
